@@ -1,8 +1,7 @@
 # brute
 
 [![PyPI version](https://badge.fury.io/py/brute.png)](http://badge.fury.io/py/brute)
-[![Build Status](https://travis-ci.org/rdegges/brute.svg?branch=develop)](https://travis-ci.org/rdegges/brute)
-[![Downloads](https://pypip.in/d/brute/badge.png)](https://pypi.python.org/pypi/brute/)
+[![Build Status](https://travis-ci.org/petermuller/brute.svg?branch=pmmdev)develop](https://travis-ci.org/petermuller/brute)
 
 Simple brute forcing in Python.
 
